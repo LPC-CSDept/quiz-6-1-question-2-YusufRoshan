@@ -2,6 +2,18 @@
 #include <iomanip>
 using namespace std;
 
+void getInput(int &n1, int &n2, int &n3); 
+
+int  findMin(int n1, int n2, int n3); 
+
+void printResult(int n1, int n2, int n3, int min);
+
+int main(){ 
+getInput(n1, n2, n3);
+min = findMin(n1, n2, n3);
+printResult(n1, n2, n3, min);
+} 
+
 // ******************************
 // Your code here
 // ******************************
