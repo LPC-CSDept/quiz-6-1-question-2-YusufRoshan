@@ -34,4 +34,4 @@ void printResult(int n1, int n2, int n3, int min){
 // min = findMin(n1, n2, n3);
 // printResult(n1, n2, n3, min);
 
-} 
+// } 
